@@ -20,7 +20,6 @@ modular-bitfield-to-value = { git = "https://github.com/hacknus/modular-bitfield
 
 [dependencies.embedded-hal]
 version = "1.0.0"
-features = ["unproven"]
 
 [profile.dev]
 incremental = false
